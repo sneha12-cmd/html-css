@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: Ooen Sans,sans-serif;
+    background-color: #efefef;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.contact-box{
+    width: 500px;
+    background-color:red;
+    box-shadow: 0 0 20px 0 #999;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    position:absolute;
+}
+ form{
+     margin:35px;
+
+ }
+
+ .input-field{
+     width: 400px;
+     height: 40px;
+     margin-top: 20px;
+     padding-left: 10px;
+     padding-right: 10px;
+     border-radius: 14px;
+     border:1px solid #777;
+     outline: none;
+ }
+
+ .textarea-field{
+    width: 400px;
+    
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 14px;
+    height:150px;
+     
+ }
+
+ button{
+     border-radius: 20px;
+     color: white;
+     margin-top: 18px;
+     padding: 10px;
+     background-color: green;
+     font-size: 18px;
+     border: none;
+     cursor: pointer;
+ }
+
+ button:hover{
+     background-color: skyblue;
+     transition: 0.6s;
+ }
