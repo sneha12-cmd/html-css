@@ -1,0 +1,17 @@
+.opt1{
+   background-color: aqua; 
+   border-style: solid;
+  border-width: 10px 5px;
+}
+
+.opt2{
+    background-color: aqua; 
+   border-style: solid;
+  border-width: medium;
+}
+
+.opt3{
+    background-color: aqua; 
+    border-style: solid;
+   border-width: thin;
+}

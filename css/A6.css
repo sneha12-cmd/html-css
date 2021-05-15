@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid rgb(149, 194, 82);
+    border-spacing: 2px;
+  }
+
+  .tt{
+      background-color:green;
+      color: white;
+      text-align:justify;
+  }

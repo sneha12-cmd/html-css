@@ -1,0 +1,20 @@
+h1{
+    background-color:cornflowerblue;
+    padding: 10px;
+    display:inline-block;
+    margin:0px
+}
+
+.cl{
+    background-color: lightblue;
+    padding:10px;
+    display:inline-block;
+    margin: 0px;
+}
+
+p{
+    background-color: lightcyan;
+    padding: 10px;
+    display:inline-block;
+    margin: 0px;
+}
